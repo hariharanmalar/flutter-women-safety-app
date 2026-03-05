@@ -1,0 +1,28 @@
+name: women_safety_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.10.1
+  cloud_firestore: ^5.6.2
+  google_maps_flutter: ^2.10.0
+  intl: ^0.20.2
+  url_launcher: ^6.3.1
+  flutter_local_notifications: ^17.2.3
+  flutter_background_service: ^5.0.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

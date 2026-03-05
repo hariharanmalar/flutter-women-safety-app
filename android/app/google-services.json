@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101397990285",
+    "project_id": "iotpulse-124af",
+    "storage_bucket": "iotpulse-124af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101397990285:android:7ab903fdfc22332c350bc4",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101397990285-p7rvb1be1l924s8ritkil2dc09lfnrn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPuvGyGWIr9i09BgM46gvtKu5BSmrtSak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101397990285-p7rvb1be1l924s8ritkil2dc09lfnrn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
